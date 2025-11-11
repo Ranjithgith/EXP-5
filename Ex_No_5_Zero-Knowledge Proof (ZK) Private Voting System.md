@@ -1,4 +1,6 @@
 # Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
+# Name: RANJIT R
+# Register No: 212224240131
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
 
@@ -65,6 +67,17 @@ When revealed, the contract verifies correctness but keeps votes anonymous.
 
 Final result is publicly verifiable without exposing individual votes.
 
+# Output:
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/2244eaed-b76a-4316-860c-0dfc4b8ca74a" />
+
+<img width="1918" height="910" alt="image" src="https://github.com/user-attachments/assets/6f682ece-1101-4c75-8f91-e4d90175687c" />
+
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/44413d88-0950-49c2-960b-b19aaca1d6cb" />
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/81495bb7-dbe9-45ef-b8e8-54d506bb2268" />
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/eef8dceb-ba19-440b-a618-77036d681642" />
 
 
 # High-Level Overview:
@@ -77,3 +90,4 @@ Prevents vote tampering while maintaining voter privacy.
 Mimics real-world ZK voting applications in governance and DAOs.
 
 # RESULT: 
+Thus, the execution of Zk Private Voting System has executed Successfully.
